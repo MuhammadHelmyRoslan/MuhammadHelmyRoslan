@@ -5,7 +5,6 @@ My name is Helmy, and I'm currently navigating a career transition into the IT a
 
 Skills: PYTHON / SQL / POWER BI / JS / HTML / CSS
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhelmyroslan" alt="muhammadhelmyroslan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
