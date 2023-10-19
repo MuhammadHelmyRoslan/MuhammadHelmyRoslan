@@ -5,11 +5,10 @@ My name is Helmy, and I'm currently navigating a career transition into the IT a
 
 Skills: PYTHON / SQL / POWER BI / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data Engineering Tools 
-- 📫 How to reach me: Email mdhelmy07@gmail.com 
-
-
+## Skills and Experience
+- ![image](https://github.com/MuhammadHelmyRoslan/MuhammadHelmyRoslan/assets/96974615/edd57386-b0aa-457c-aa00-41403c7b2433)
+- ![image](https://github.com/MuhammadHelmyRoslan/MuhammadHelmyRoslan/assets/96974615/5a42e3f1-1659-414c-8200-810a66b592c5)
+- 
 
 
 
