@@ -3,7 +3,7 @@
 
 My name is Helmy, and I'm currently navigating a career transition into the IT and Software industry. I have a passion for embracing new challenges and am highly enthusiastic about this new journey. For a more comprehensive look at my professional background, please visit my LinkedIn profile at https://www.linkedin.com/in/helmy07/.
 
-Skills: PYTHON / SQL / POWER BI / JS / HTML / CSS
+Main Skills: PYTHON / SQL / POWER BI / JS / HTML / CSS
 
 
 <p align="left">
