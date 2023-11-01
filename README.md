@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Helmy
-[![](https://pbs.twimg.com/profile_banners/1666084071695609858/1697702887/1080x360)
-](https://www.canva.com/design/DAFxsN9Ejyo/P65ZtpATA6Y45JujfZb19g/edit)
+https://twitter.com/GjtR34587853/header_photo
+
 My name is Helmy, and I'm currently navigating a career transition into the IT and Software industry. I have a passion for embracing new challenges and am highly enthusiastic about this new journey. For a more comprehensive look at my professional background, please visit my LinkedIn profile at https://www.linkedin.com/in/helmy07/.
 
 Main Skills: PYTHON / SQL / POWER BI / JS / HTML / CSS
