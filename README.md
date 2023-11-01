@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Helmy
-https://twitter.com/GjtR34587853/header_photo
+![image](https://github.com/MuhammadHelmyRoslan/MuhammadHelmyRoslan/assets/96974615/9389fa8a-bafc-4212-9cb8-2cd313754bfe)
 
 My name is Helmy, and I'm currently navigating a career transition into the IT and Software industry. I have a passion for embracing new challenges and am highly enthusiastic about this new journey. For a more comprehensive look at my professional background, please visit my LinkedIn profile at https://www.linkedin.com/in/helmy07/.
 
