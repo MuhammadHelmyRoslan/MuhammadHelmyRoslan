@@ -5,6 +5,7 @@ My name is Helmy, and I'm currently navigating a career transition into the Data
 
 Main Skills: PYTHON / SQL / AZURE
 
+- 🌱 I’m currently learning on Azure Cloud and Python to be a better programmer.
 
 <p align="left">
 </p>
