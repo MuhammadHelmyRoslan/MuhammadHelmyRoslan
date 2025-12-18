@@ -3,7 +3,7 @@
 
 My name is Helmy. Welcome to my Github homepage. 
 
-Main Skills: PYTHON / SQL 
+Main Skills: Python / SQL 
 
 <h3 align="left">Languages and Tools:</h3>
 <table border="0">
